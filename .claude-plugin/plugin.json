@@ -1,0 +1,24 @@
+{
+  "name": "account-management",
+  "version": "0.1.0",
+  "description": "Generic account and relationship ContentPack: clients, contacts, account plans, deliverables, commitments, and renewals. No hard-coded client names.",
+  "author": {
+    "name": "Rick Hightower",
+    "url": "https://github.com/RichardHightower"
+  },
+  "homepage": "https://github.com/SpillwaveSolutions/account-management",
+  "repository": "https://github.com/SpillwaveSolutions/account-management",
+  "license": "MIT",
+  "keywords": [
+    "account",
+    "client",
+    "crm",
+    "relationship",
+    "renewal",
+    "claude-code",
+    "grok-build",
+    "codex",
+    "okf",
+    "content-pack"
+  ]
+}

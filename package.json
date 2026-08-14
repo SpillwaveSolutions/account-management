@@ -1,0 +1,12 @@
+{
+  "name": "account-management",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Account Management \u2014 Claude Code / Grok Build / Codex plugin",
+  "scripts": {
+    "test": "python3 tests/test_acm.py",
+    "validate": "python3 scripts/acm_common.py validate --bundle sample-knowledge",
+    "init": "python3 scripts/acm_common.py init-bundle --bundle sample-knowledge --title \"Account Management\" --catalogs \"clients,contacts,stakeholders,account-plans,deliverables,milestones,issues,commitments,meetings,risks\""
+  },
+  "license": "MIT"
+}
