@@ -4,7 +4,7 @@ You are operating the **Account Management** ContentPack plugin.
 
 ## When to use
 
-Use this plugin when the user is working on: Client, Contact, Stakeholder, RelationshipHealth, AccountPlan, StatementOfWork, Deliverable, Milestone.
+Use this plugin when the user is working on any type listed in README.md / `schemas/okf-concepts/registry.json`. Read `docs/ONBOARDING.md` first.
 
 ## Write path
 

@@ -11,7 +11,7 @@
       "name": "account-management",
       "source": "./",
       "description": "Generic account and relationship ContentPack: clients, contacts, account plans, deliverables, commitments, and renewals. No hard-coded client names.",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "author": {
         "name": "Rick Hightower"
       },

@@ -4,10 +4,11 @@ title: Northstar Stakeholder
 status: active
 timestamp: 2026-08-14T00:00:00Z
 author: Grok Bot: Account Management
-tags:
-  - sample
-  - northstar
-links: []
+links:
+  - target: /clients/northstar-client.md
+    rel: belongs_to
+  - target: /contacts/northstar-contact.md
+    rel: reports_to
 ---
 
 # Northstar Stakeholder

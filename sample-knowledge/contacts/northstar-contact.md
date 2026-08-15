@@ -4,10 +4,9 @@ title: Northstar Contact
 status: active
 timestamp: 2026-08-14T00:00:00Z
 author: Grok Bot: Account Management
-tags:
-  - sample
-  - northstar
-links: []
+links:
+  - target: /clients/northstar-client.md
+    rel: belongs_to
 ---
 
 # Northstar Contact

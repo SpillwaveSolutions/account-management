@@ -1,110 +1,110 @@
 {
-  "version": "0.1.0",
+  "version": "0.3.0",
   "plugin": "account-management",
   "types": [
     {
       "type": "Client",
-      "folder": null,
+      "folder": "clients",
       "description": "Account or organization being served"
     },
     {
       "type": "Contact",
-      "folder": null,
+      "folder": "contacts",
       "description": "Named person at the account"
     },
     {
       "type": "Stakeholder",
-      "folder": null,
+      "folder": "stakeholders",
       "description": "Person with influence or veto"
     },
     {
       "type": "RelationshipHealth",
-      "folder": null,
+      "folder": "relationship-healths",
       "description": "Qualitative health signal"
     },
     {
       "type": "AccountPlan",
-      "folder": null,
+      "folder": "account-plans",
       "description": "Goals and plays for the account"
     },
     {
       "type": "StatementOfWork",
-      "folder": null,
+      "folder": "statement-of-works",
       "description": "Scoped engagement document"
     },
     {
       "type": "Deliverable",
-      "folder": null,
+      "folder": "deliverables",
       "description": "Promised output"
     },
     {
       "type": "Milestone",
-      "folder": null,
+      "folder": "milestones",
       "description": "Date-bound checkpoint"
     },
     {
       "type": "Issue",
-      "folder": null,
+      "folder": "issues",
       "description": "Open problem on the account"
     },
     {
       "type": "Risk",
-      "folder": null,
+      "folder": "risks",
       "description": "Account-level risk"
     },
     {
       "type": "Opportunity",
-      "folder": null,
+      "folder": "opportunities",
       "description": "Expansion or upsell"
     },
     {
       "type": "Meeting",
-      "folder": null,
+      "folder": "meetings",
       "description": "Account conversation"
     },
     {
       "type": "CallNote",
-      "folder": null,
+      "folder": "call-notes",
       "description": "Call recap"
     },
     {
       "type": "EmailThread",
-      "folder": null,
+      "folder": "email-threads",
       "description": "Email conversation summary"
     },
     {
       "type": "Commitment",
-      "folder": null,
+      "folder": "commitments",
       "description": "Promise made to the account"
     },
     {
       "type": "InvoiceStatus",
-      "folder": null,
+      "folder": "invoice-status",
       "description": "Billing state"
     },
     {
       "type": "ExpansionOpportunity",
-      "folder": null,
+      "folder": "expansion-opportunities",
       "description": "Growth play"
     },
     {
       "type": "SatisfactionSignal",
-      "folder": null,
+      "folder": "satisfaction-signals",
       "description": "NPS / sentiment note"
     },
     {
       "type": "Escalation",
-      "folder": null,
+      "folder": "escalations",
       "description": "Raised account issue"
     },
     {
       "type": "RenewalDate",
-      "folder": null,
+      "folder": "renewal-dates",
       "description": "Contract renewal marker"
     },
     {
       "type": "SuccessMetric",
-      "folder": null,
+      "folder": "success-metrics",
       "description": "Outcome the account cares about"
     }
   ]
