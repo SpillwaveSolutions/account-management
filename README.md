@@ -90,7 +90,7 @@ python3 scripts/acm_common.py write \
   --type Client \
   --folder clients \
   --title "Example" \
-  --author "Grok Bot: Account Management"
+  --author "${SECOND_BRAIN_IDENTITY:?claim an identity first: brain.py whoami --claim}"
 ```
 
 Never invent `rel` values. Never write types owned by another plugin.
