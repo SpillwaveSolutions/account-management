@@ -1,6 +1,6 @@
 {
   "name": "account-management",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "private": true,
   "description": "Account Management \u2014 Claude Code / Grok Build / Codex plugin",
   "scripts": {
