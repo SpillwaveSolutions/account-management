@@ -1,11 +1,9 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "account-management",
   "version": "0.3.2",
   "description": "Generic account and relationship ContentPack: clients, contacts, plans, deliverables, renewals.",
   "author": {
-    "name": "Rick Hightower",
-    "url": "https://github.com/RichardHightower"
+    "name": "Rick Hightower"
   },
   "homepage": "https://github.com/SpillwaveSolutions/account-management",
   "repository": "https://github.com/SpillwaveSolutions/account-management",
@@ -16,5 +14,8 @@
     "second-brain",
     "agent-plugins",
     "cursor"
-  ]
+  ],
+  "skills": "skills/",
+  "rules": ".cursor/rules/",
+  "commands": "commands/"
 }
