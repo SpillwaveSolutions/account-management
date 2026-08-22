@@ -10,7 +10,7 @@
       "name": "account-management",
       "source": "./",
       "description": "Account Management",
-      "version": "0.3.3"
+      "version": "0.3.4"
     }
   ]
 }
