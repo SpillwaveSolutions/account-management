@@ -1,13 +1,13 @@
 {
   "name": "acm-plugin-marketplace",
   "description": "Optional native Grok marketplace metadata. Grok Build already loads Claude plugins with zero config.",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "plugins": [
     {
       "name": "account-management",
       "source": ".",
       "description": "Generic account and relationship ContentPack: clients, contacts, account plans, deliverables, commitments, and renewals. No hard-coded client names.",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "compatibility": {
         "claude_plugin": true,
         "zero_config": true
